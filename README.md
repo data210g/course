@@ -1,2 +1,1 @@
-# course
-# course
+Examples for the class
